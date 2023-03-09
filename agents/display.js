@@ -9,7 +9,7 @@ const mainInfo = document.querySelector('.info')
 let ID, EP
 changeData()
 getEpisodes()
-
+test
 function getVideo() {
     let epis = document.querySelector('.episodes .epi')
     if (nameAnime.length == 1) {
